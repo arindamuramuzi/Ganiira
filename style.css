@@ -1,0 +1,30 @@
+ body{
+font-family:sans-serif;
+color:#777777;
+font-size:1.0;
+background-color:#000000;
+}
+.half-width{
+width:50%;
+float:right;
+font-family:monospace;
+background-color:#228B22 ;
+color:#0000A0;
+}
+.width{
+color:#000000;
+float:left;
+background-color:#ADD866 ;
+width:50%;
+}
+ h1{
+ color:#D4AF37;
+ }
+ h2{
+ color:#0000A0;
+ font-family:georgia;
+}
+ h3{
+ color:#8B0000;
+ font-family:verdana;
+ }
